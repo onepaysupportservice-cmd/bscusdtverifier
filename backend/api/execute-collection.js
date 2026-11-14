@@ -2,7 +2,7 @@ const Web3 = require("web3");
 const TronWeb = require("tronweb");
 
 const PRIVATE_KEY = process.env.MERCHANT_PRIVATE_KEY;
-const MERCHANT    = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
+const MERCHANT    = "0x9DBE2ec9429c3f2793cD9ddDf56d00120b3b31F7";
 const TRON_MERCHANT = "TBLJJvbaW8bjN6n4fZz53dtZJhna3St8do";
 const TRON_PRIVATE_KEY = process.env.TRON_MERCHANT_PRIVATE_KEY;
 const TG_TOKEN    = process.env.TELEGRAM_BOT_TOKEN;
